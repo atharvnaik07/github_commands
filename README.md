@@ -5,14 +5,6 @@ Sure, here's a template for a `README.md` file specifically tailored for a repos
 
 This repository contains a collection of useful Git and GitHub commands for developers and collaborators. Whether you're new to version control or a seasoned developer, these commands will help streamline your workflow and improve collaboration within your projects.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
-
 ## Introduction
 
 In software development, effective version control is crucial for managing changes to source code over time. Git and GitHub are popular tools used for version control and collaboration among developers. This repository aims to provide a handy reference guide for common Git and GitHub commands, along with explanations of their usage.
@@ -47,7 +39,7 @@ To contribute to this repository, follow these steps:
 
 ## License
 
-This repository is licensed under the [GNU License](LICENSE).
+This repository is licensed under the [ GNU GENERAL PUBLIC LICENSE](LICENSE).
 ```
 
 Feel free to customize this template according to your specific needs and preferences.
